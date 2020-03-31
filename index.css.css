@@ -1,0 +1,98 @@
+body{
+    background: url('Healthcare.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+.img1{
+   width: 50%;
+   height: 20%;
+        margin-left: 10px;
+        margin-right: 30px;
+        margin-bottom: 30px;
+        padding-bottom: 50px;
+        padding-left: 70px;
+        padding-left: 30px;
+        margin-top: 10px;
+       }
+h1{
+    font-size: 40px;
+    font-weight: bold;
+   margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    text-align: center;
+   
+}
+.p1{
+    font-weight: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;  
+}
+.p2{
+    font-weight: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;  
+}
+.p3{
+    font-weight: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;  
+}
+
+div{
+    border:2px solid black;
+    margin-top: 20px;
+    margin-left: 900px;
+    text-align: center;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    color:whitesmoke;
+ 
+}
+.p4{
+text-align: right;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.h4{
+    text-decoration: underline;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold ;
+}
+.p5{
+    font-size: 18px;
+    font-style: italic;
+}
+    
+}
+ul{
+    margin-left: 900px;
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+    color:blue;
+}
+a:visited{
+    color: red;
+    text-decoration: none;
+}
+
+li a:hover{
+color:white;
+background-color: teal;
+font-weight: bold;
+border-radius: 3px;
+padding-top: 2px;
+margin-right: 500px;
+}
